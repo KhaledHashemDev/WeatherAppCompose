@@ -1,4 +1,4 @@
-Weather App
+**Weather App**
 
 This is a weather app built using modern Android development technologies and practices. The app provides real-time weather information and features a user-friendly UI implemented with Jetpack Compose. It utilizes various libraries and frameworks, including network and concurrency management, unit testing, dependency injection, and navigation.
 
