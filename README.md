@@ -1,4 +1,5 @@
 Weather App
+
 This is a weather app built using modern Android development technologies and practices. The app provides real-time weather information and features a user-friendly UI implemented with Jetpack Compose. It utilizes various libraries and frameworks, including network and concurrency management, unit testing, dependency injection, and navigation.
 
 Features:
@@ -17,6 +18,3 @@ To run the Weather App locally and explore its features, follow these steps:
 Clone the repository
 Open the project in Android Studio.
 Build and run the app on an emulator or physical device.
-
-Acknowledgements
-The Weather App is built upon the valuable knowledge and contributions from the open-source community and various online resources. We express our gratitude to all the developers, contributors, and organizations that have provided inspiration and guidance in creating this app.
